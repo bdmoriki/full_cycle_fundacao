@@ -1,3 +1,3 @@
-module github.com/bdmoriki
+module curso-go
 
 go 1.22.4
